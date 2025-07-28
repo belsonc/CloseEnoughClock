@@ -6,7 +6,7 @@ But I realized something a while ago.  When someone asks us the time, we don't n
 
 So I give you this:
 
-!(https://github.com/belsonc/CloseEnoughClock/blob/main/closeenoughclock.png)
+!(https://github.com/belsonc/CloseEnoughClock/blob/main/closeenoughclock.jpg)
 
 ## CloseEnoughClock
 
