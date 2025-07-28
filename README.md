@@ -22,6 +22,7 @@ Does this serve any actual purpose?  Not at all, other than to beat pygame into 
 
 This clock only requires pygame to be installed - all other packages used are, to my knowledge, part of a standard python installation.
 Directions for Pip, substitute as needed for your package manager of choice:
+
 <code> pip install pygame==2.6.1 </code>
 
 After that, clone the repository:
