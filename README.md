@@ -6,6 +6,8 @@ But I realized something a while ago.  When someone asks us the time, we don't n
 
 So I give you this:
 
+!(https://github.com/belsonc/CloseEnoughClock/blob/main/closeenoughclock.png)
+
 ## CloseEnoughClock
 
 A clock that's accurately inaccurate by design.  If someone asks you what time it is, and you see it's 6:44, you could say that - but there's a chance you'd say "it's about a quarter to seven" instead.
